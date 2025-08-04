@@ -410,20 +410,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Contact**
-
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
-
-**Project Link**: [https://github.com/yourusername/advanced-multi-agent-docs](https://github.com/yourusername/advanced-multi-agent-docs)
-
----
 
 <div align="center">
 
 ### ⭐ **Star this repository if it helped you!**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/advanced-multi-agent-docs.svg?style=social&label=Star)](https://github.com/yourusername/advanced-multi-agent-docs)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/advanced-multi-agent-docs.svg?style=social&label=Fork)](https://github.com/yourusername/advanced-multi-agent-docs)
 
 **Built with ❤️ for the developer community**
 
